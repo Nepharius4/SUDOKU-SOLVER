@@ -70,7 +70,6 @@ the solved sudoku too.
  }
  cyan();
  printf("===============================\n");
- standart(); return
-0
-;
+ standart(); 
+ return 0;
 }
